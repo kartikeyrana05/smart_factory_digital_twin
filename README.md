@@ -130,14 +130,11 @@ This runs the complete simulation, PyTorch AI anomaly inference, health/risk cal
 ### 4. Start the Interactive FastAPI Digital Twin Server & Web Dashboard
 ```powershell
 uvicorn api.main:app --reload --port 8000
-```
-URL="https://digitaltwin-smartfactory-1.onrender.com/"
+``
 
 ### 5. Run Complete Automated Test Suite
 ```powershell
 pytest -v
 ```
-All unit and integration tests pass cleanly.
-#� �s�m�a�r�t�_�f�a�c�t�o�r�y�_�d�i�g�i�t�a�l�_�t�w�i�n�
-�
-�
+LIVE DASHBOARD
+URL="https://digitaltwin-smartfactory-1.onrender.com/"
