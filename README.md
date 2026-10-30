@@ -131,9 +131,7 @@ This runs the complete simulation, PyTorch AI anomaly inference, health/risk cal
 ```powershell
 uvicorn api.main:app --reload --port 8000
 ```
-Open your browser at: **[http://localhost:8000](http://localhost:8000)**
-* Interactive Web Dashboard: Real-time equipment status, health cards, sensor charts, and live operational alerts via WebSockets.
-* Interactive API Documentation (Swagger UI): **[http://localhost:8000/docs](http://localhost:8000/docs)**.
+URL="https://digitaltwin-smartfactory-1.onrender.com/"
 
 ### 5. Run Complete Automated Test Suite
 ```powershell
