@@ -205,7 +205,9 @@ async def lifespan(app: FastAPI):
 
     # 3. Start live background publisher loop
    # simulator_task = asyncio.create_task(live_simulation_worker())
-
+# 3. Start live background publisher loop
+    simulator_task = asyncio.create_task(live_simulation_worker())
+    logger.info("Live factory simulation publisher task started.")
     yield
 
     # Shutdown
