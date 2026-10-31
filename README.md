@@ -138,3 +138,22 @@ pytest -v
 ```
 LIVE DASHBOARD
 URL="https://digitaltwin-smartfactory-1.onrender.com/"
+ ## 📸 Project Dashboard & Screenshots
+
+### 1. Smart Factory Digital Twin – Main Dashboard
+
+<img width="100%" alt="Smart Factory Main Dashboard"
+src="<img width="1861" height="687" alt="Screenshot 2026-10-31 102431" src="https://github.com/user-attachments/assets/27123942-58f3-4918-aa4a-b6348bb9bfe6" />
+" />
+
+### 2. Real-Time Machine Health Monitoring
+
+<img width="100%" alt="Real-Time Machine Health Monitoring"
+src="<img width="1861" height="687" alt="Screenshot 2026-10-31 102431" src="https://github.com/user-attachments/assets/cbd4a212-ec30-42e3-9bd6-8a993c017b81" />
+" />
+
+### 3. AI-Based Machine Analytics & Telemetry
+
+<img width="100%" alt="AI Machine Analytics and Telemetry"
+src="<img width="1858" height="903" alt="Screenshot 2026-10-31 102411" src="https://github.com/user-attachments/assets/273e9497-f5d5-4d1f-b702-764ffe110a96" />
+" />
