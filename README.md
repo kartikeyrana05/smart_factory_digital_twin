@@ -146,12 +146,6 @@ URL="https://digitaltwin-smartfactory-1.onrender.com/"
 src="<img width="1861" height="687" alt="Screenshot 2026-10-31 102431" src="https://github.com/user-attachments/assets/27123942-58f3-4918-aa4a-b6348bb9bfe6" />
 " />
 
-### 2. Real-Time Machine Health Monitoring
-
-<img width="100%" alt="Real-Time Machine Health Monitoring"
-src="<img width="1861" height="687" alt="" />
-" />
-
 ### 3. AI-Based Machine Analytics & Telemetry
 
 <img width="100%" alt="AI Machine Analytics and Telemetry"
