@@ -149,7 +149,7 @@ src="<img width="1861" height="687" alt="Screenshot 2026-10-31 102431" src="http
 ### 2. Real-Time Machine Health Monitoring
 
 <img width="100%" alt="Real-Time Machine Health Monitoring"
-src="<img width="1861" height="687" alt="Screenshot 2026-10-31 102431" src="https://github.com/user-attachments/assets/cbd4a212-ec30-42e3-9bd6-8a993c017b81" />
+src="<img width="1861" height="687" alt="" />
 " />
 
 ### 3. AI-Based Machine Analytics & Telemetry
