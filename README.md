@@ -140,13 +140,13 @@ LIVE DASHBOARD
 URL="https://digitaltwin-smartfactory-1.onrender.com/"
  ## 📸 Project Dashboard & Screenshots
 
-### 1. Smart Factory Digital Twin – Main Dashboard
+### 1. graphical analytics 
 
 <img width="100%" alt="Smart Factory Main Dashboard"
 src="<img width="1861" height="687" alt="Screenshot 2026-10-31 102431" src="https://github.com/user-attachments/assets/27123942-58f3-4918-aa4a-b6348bb9bfe6" />
 " />
 
-### 3. AI-Based Machine Analytics & Telemetry
+### 3.Smart Factory Main Dashboard
 
 <img width="100%" alt="AI Machine Analytics and Telemetry"
 src="<img width="1858" height="903" alt="Screenshot 2026-10-31 102411" src="https://github.com/user-attachments/assets/273e9497-f5d5-4d1f-b702-764ffe110a96" />
